@@ -1,1 +1,4 @@
-weight.hdf5 is of the HPE_GRP_8(1).ipynb
+This 'final' branch is final update on the program 'HPE_GRP_8 (European).ipynb' 
+which create and save the model (.pckl format) is 'model.pkl' 
+    with accuracy 0.92171 
+    with loss of  0.1998
