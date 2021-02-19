@@ -38,7 +38,7 @@ def process(test_str):
 #Reading the dataset
 x=[]
 y=[]
-df=pd.read_csv('https://github.com/404S-retr0/WebApplication/blob/main/Data_Wordlists.csv?raw=true')
+df=pd.read_csv('https://github.com/404S-retr0/HPE_Project_Grp-8/blob/web_design-via-Flask-API/Data_Wordlists.csv?raw=true')
 for word,lang in zip(df.WORDS,df.LANGAUAGE_VECTOR):
     if(pd.isna(word)):
       continue
