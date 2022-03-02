@@ -1,1 +1,1 @@
-<h1>Language Detection model in % distribution using deep learning</h1>
+<h1>Language Detection model with % distribution using deep learning</h1>
